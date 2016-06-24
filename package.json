@@ -1,0 +1,11 @@
+{
+  "name": "ouroboros",
+  "version": "1.0.0",
+  "description": "Pretty data generator",
+  "main": "main.js",
+  "dependencies": {
+    "datejs": "^1.0.0-rc3",
+    "google-maps-direction": "^1.0.0",
+    "polyline": "^0.2.0"
+  }
+}
